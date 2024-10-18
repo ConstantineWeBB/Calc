@@ -81,10 +81,10 @@ h6 {
 
 /* reset */
 body {
-  background: url("/Source/1673521538_pro-dachnikov-com-p-foto-pismennogo-stola-sverkhu-7.jpg")
-    0 0 no-repeat;
+   background-image: url("/Source/1673521538_pro-dachnikov-com-p-foto-pismennogo-stola-sverkhu-7.jpg");
   background-position: 100%;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 .body__calc {
   background-color: rgb(205, 202, 202);
